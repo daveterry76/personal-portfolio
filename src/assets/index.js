@@ -25,10 +25,15 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import helixgade from "./company/helixgade.png";
+import edtify from "./company/edtify.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import informher from "./informher.png";
+import expensetracker from "./expensetracker.png";
+import airbnb from "./airbnb.png";
 
 export {
   logo,
@@ -56,7 +61,12 @@ export {
   shopify,
   starbucks,
   tesla,
+  helixgade,
+  edtify,
   carrent,
   jobit,
   tripguide,
+  informher,
+  expensetracker,
+  airbnb,
 };
