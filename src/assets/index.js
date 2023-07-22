@@ -31,9 +31,9 @@ import edtify from "./company/edtify.jpeg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import informher from "./informher.png";
-import expensetracker from "./expensetracker.png";
-import airbnb from "./airbnb.png";
+import informher from "./informher.PNG";
+import expensetracker from "./expensetracker.PNG";
+import airbnb from "./airbnb.PNG";
 
 export {
   logo,
